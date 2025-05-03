@@ -82,8 +82,8 @@ alembic upgrade head
 ## 📂 Структура проекта
 ```bash
 youtube-async-collector/
-├── controllers/
 │ 
+├── controllers/
 │   ├── youtube_api_controller.py  # Логика работы с YouTube API
 │   ├── database_controller.py     # Работа с PostgreSQL
 ├── models/
