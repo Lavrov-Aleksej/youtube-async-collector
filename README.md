@@ -3,6 +3,7 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![PostgreSQL 15+](https://img.shields.io/badge/PostgreSQL-15%2B-blue?logo=postgresql)](https://www.postgresql.org/)
 [![AsyncIO](https://img.shields.io/badge/Async-IO-blue?logo=asyncio)](https://docs.python.org/3/library/asyncio.html)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0%2B-blue?logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
 
 Асинхронное приложение для сбора и анализа данных YouTube с графическим интерфейсом. Приложение позволяет получать метаданные о видео, каналах и комментариях, сохраняя их в реляционную базу данных с четкой структурой отношений
 
