@@ -16,7 +16,6 @@
 1. **Клонирование репозитория**:
 ```bash
 git clone https://github.com/Lavrov-Aleksej/youtube-async-collector.git
-
 cd youtube-async-collector
 ```
 2. **Настройка базы данных**:
